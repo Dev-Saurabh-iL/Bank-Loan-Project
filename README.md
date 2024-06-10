@@ -11,7 +11,7 @@ This project aims to create a comprehensive Bank Loan Report for monitoring and 
 
   **Key Features**
 
-    Summary Dashboard:
+    Summary Dashboard: 
         Total Loan Applications: Calculate the total number of loan applications received, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
         Total Funded Amount: Monitor the total amount of funds disbursed as loans, with MTD and MoM analysis.
         Total Amount Received: Track the total amount received from borrowers, including MTD and MoM changes.
