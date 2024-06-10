@@ -1,7 +1,8 @@
 **Bank Loan Report Project**
 **Overview**:- 
 
-This project aims to create a comprehensive Bank Loan Report for monitoring and assessing a bank's lending activities and performance. The report will provide insights into key loan-related metrics and their changes over time, helping the bank make data-driven decisions, track the health of its loan portfolio, and identify trends that can inform lending strategies.
+This project aims to create a comprehensive Bank Loan Report for monitoring and assessing a bank's lending activities and performance. The report will provide insights into key 
+loan-related metrics and their changes over time, helping the bank make data-driven decisions, track the health of its loan portfolio, and identify trends that can inform lending strategies.
 
 **Technologies Used**
 
@@ -27,7 +28,8 @@ This project aims to create a comprehensive Bank Loan Report for monitoring and 
             Total amount funded and received for 'Bad Loans'.
 
     Loan Status Grid View:
-        Provide a detailed grid view categorized by 'Loan Status' to monitor performance metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio (DTI).
+        Provide a detailed grid view categorized by 'Loan Status' to monitor performance metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, 
+        MTD Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio (DTI).
 
     Overview Dashboard:
         Monthly Trends by Issue Date (Line Chart): Show 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' over time to identify seasonality and long-term trends.
@@ -38,4 +40,5 @@ This project aims to create a comprehensive Bank Loan Report for monitoring and 
         Home Ownership Analysis (Tree Map): Display loan metrics categorized by home ownership statuses.
 
     Details Dashboard:
-        Offer a consolidated view of essential information within the loan data, providing a holistic snapshot of key loan-related metrics and data points for detailed insights into the loan portfolio, borrower profiles, and loan performance.
+        Offer a consolidated view of essential information within the loan data, providing a holistic snapshot of key loan-related metrics and data points for detailed insights into the loan portfolio, 
+        borrower profiles, and loan performance.
